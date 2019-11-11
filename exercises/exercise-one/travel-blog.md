@@ -22,8 +22,9 @@ The last place I travelled too was New Zealand (home) !
 These are the the seven continents:
 
 1. Asia
-2. South America
-3. North America
-4. Europe
-5. Africa
-6. Antarctica
+2. Australia
+3. South America
+4. North America
+5. Europe
+6. Africa
+7. Antarctica
